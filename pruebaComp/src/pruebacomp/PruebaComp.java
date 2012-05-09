@@ -18,5 +18,6 @@ public class PruebaComp
     {
         // TODO code application logic here
         System.out.println("Saludos");
+        System.out.println("Ya nos vamos");
     }
 }
